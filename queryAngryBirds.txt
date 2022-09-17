@@ -1,0 +1,43 @@
+INSERT INTO birds (name, power, genre, size, scope, color)
+VALUES ("Jay, Jake y Jim","Dividirse en Tres","Masculinos" , "Pequeños", "Corto", "Azul");
+
+INSERT INTO birds (name, power, genre, size, scope, color)
+VALUES ("Chuck","Aceleración (Angry Birds, Angry Birds Seasons y Angry Birds Rio) TargetPoint (Angry Birds Space) Disparo Laser (Saga de Star Wars)","Masculino" , "Mediano", "Normal", "Amarillo");
+
+INSERT INTO birds (name, power, genre, size, scope, color)
+VALUES ("Matilda","Lanzar huevos explosivos. desarmarse en 5 partes(Angry Birds Star Wars I Y Star Wars II)usar un sable de luz (Angry Birds Star Wars II).","Femenino" , "Grande", "Medio", "Blanco");
+
+INSERT INTO birds (name, power, genre, size, scope, color)
+VALUES ("Bomb","Explosión (Trilogía original y Space), empujón-fuerza (Star Wars I y II), boomerang (Star Wars II), Explosión eléctrica (Electric Bomb o Shock wave)","Masculino" , "Grande", "Medio", "Negro");
+
+INSERT INTO birds (name, power, genre, size, scope, color)
+VALUES ("Terence","Super fuerza y gran tamaño","Masculino" , "Gigante", "Medio", "Rojo");
+
+INSERT INTO birds (name, power, genre, size, scope, color)
+VALUES ("Silver","Bucles Hacia Abajo","Femenino" , "Pequeño", "Medio", "Gris");
+
+
+{
+    "name": "Terence",
+    "power": "Sable de Luz, Empujón de la Fuerza y Racer Pod (Juegos de la Saga de Star Wars), disminuir velocidad y daño (Angry Birds Chrome y Friends), Empujar estructuras (Angry Birds 2), Ninguno (En los demás juegos y niveles)",
+    "genre": "Masculino",
+    "size": "Gigante",
+    "scope": "Medio",
+    "color": "Rojo",
+  },
+  {
+    "name": "Jay, Jake y Jim",
+    "power": "Dividirse en Tres)",
+    "genre": "Masculinos",
+    "size": "Pequeños",
+    "scope": "Corto",
+    "color": "Azul",
+  },
+  {
+    "name": "Chuck",
+    "power": "Aceleración (Angry Birds, Angry Birds Seasons y Angry Birds Rio) TargetPoint (Angry Birds Space) Disparo Laser (Saga de Star Wars)",
+    "genre": "Masculino",
+    "size": "Mediano",
+    "scope": "Normal",
+    "color": "Amarillo",
+  }
